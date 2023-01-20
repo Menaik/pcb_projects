@@ -1,0 +1,28 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\ArduinoPWRBoard\Project Outputs for ArduinoPWRBoard\Pick Place\Pick Place for powerRegulator.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       19/11/22
+Time:       13:55
+Revision:   a35f2248bc6f3b09c598aa164b94ca713c897ade
+Variant:    No variations
+Units used: mil
+
+Designator Comment                  Layer    Footprint                  Center-X(mil) Center-Y(mil) Rotation Description                                                                                     
+U1         TPS562200DDCR            TopLayer SOIC127P280X110-6N         1140.000      825.118       270      "Buck Switching Regulator IC Positive Adjustable 0.765V 1 Output 2A SOT-23-6 Thin, TSOT-23-6"   
+Rfbt       CRCW020156K2FNED         TopLayer RESC0603X28X15NL05T05      1090.000      650.000       270      ""                                                                                              
+Rfbb       ERJ-1GNF1002C            TopLayer FP-ERJ1G-MFG               1028.000      663.000       0        "RES SMD 10K OHM 1% 1/20W 0201"                                                                 
+L1         NR6028T4R7M              TopLayer FP-NR6028-MFG              1520.000      727.480       270      "SMD Power Inductors 4.7uH ±20% 2.7A 40.3mO"                                                    
+J4         SSQ-108-03-T-S           TopLayer SSQ-108-03-T-S-Footprint-1 2160.000      2000.000      0        "Headers & Wire Housings Tiger Buy Socket Strip with Square Tails, 0.100 Pitch"                 
+J3         SSQ-110-03-T-S           TopLayer SSQ-108-03-T-S-Footprint-1 1190.000      2000.000      0        "Headers & Wire Housings Tiger Buy Socket Strip with Square Tails, 0.100 Pitch"                 
+J2         SSQ-106-03-T-S           TopLayer SSQ-108-03-T-S-Footprint-1 2250.000      100.000       0        "Headers & Wire Housings Tiger Buy Socket Strip with Square Tails, 0.100 Pitch"                 
+J1         SSQ-108-03-T-S           TopLayer SSQ-108-03-T-S-Footprint-1 1450.000      100.000       0        "Headers & Wire Housings Tiger Buy Socket Strip with Square Tails, 0.100 Pitch"                 
+D2         MKRAWT-00-0000-0D0HG235H TopLayer CREE-MK-R-2_V              2078.000      1344.000      0        "LED, White, 12 V, 2-Pin SMD, RoHS, Tape and Reel"                                              
+D1         MKRAWT-00-0000-0D0HG235H TopLayer CREE-MK-R-2_V              2078.000      804.000       0        "LED, White, 12 V, 2-Pin SMD, RoHS, Tape and Reel"                                              
+Cout2      C1608X5R1A226M080AC      TopLayer CAPC1608X100X20ML10        1550.000      510.000       180      "Chip Capacitor, 22 uF, +/- 20%, 10 V, -55 to 85 degC, 0603 (1608 Metric), RoHS, Tape and Reel" 
+Cout1      C1608X5R1A226M080AC      TopLayer CAPC1608X100X20ML10        1550.000      400.000       180      "Chip Capacitor, 22 uF, +/- 20%, 10 V, -55 to 85 degC, 0603 (1608 Metric), RoHS, Tape and Reel" 
+Cin2       T491D106K035AT           TopLayer FP-T491D106K035AT-MFG      790.000       770.000       90       "CAP TANT 10UF 10% 35V 2917"                                                                    
+Cin1       T491D106K035AT           TopLayer FP-T491D106K035AT-MFG      580.000       770.000       90       "CAP TANT 10UF 10% 35V 2917"                                                                    
+Cbst       CC0805KRX7R8BB104        TopLayer FP-CC0805-0_85-MFG         1310.000      790.000       270      "CAP CER 0.1UF 25V X7R 0805"                                                                    

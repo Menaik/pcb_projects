@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : PCB Document [powerRegulator.PcbDoc]
+   Generated File[powerRegulator.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:56:21 PM On 11/19/2022

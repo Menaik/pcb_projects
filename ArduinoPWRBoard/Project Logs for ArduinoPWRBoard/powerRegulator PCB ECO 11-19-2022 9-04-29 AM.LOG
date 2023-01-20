@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetRfbb_2 Pin=Rfbb-2
+Added Pin To Net: NetName=NetRfbb_2 Pin=Rfbt-1
+Added Pin To Net: NetName=NetRfbb_2 Pin=U1-4
+Added Net: Name=NetRfbb_2

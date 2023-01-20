@@ -1,0 +1,28 @@
+Output: ODB++ Files
+Type  : ODB
+From  : Variant [[No Variations]] of PCB Document [powerRegulator.PcbDoc]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[matrix]
+   Generated File[powerRegulator.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 1:28:55 PM On 11/19/2022
